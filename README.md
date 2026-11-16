@@ -14,7 +14,7 @@ A retailer ran two promotions and wants to know:
 
 64,000 customers, one row each. No missing values or duplicate customers.
 
-**Source:** public Kaggle dataset - [Marketing Promotion Campaign Uplift Modelling](https://www.kaggle.com/datasets/davinwijaya/customer-retention) (license: LICENSE). The business framing follows a typical promotion-uplift case question.
+**Source:** public Kaggle dataset - [Marketing Promotion Campaign Uplift Modelling](https://www.kaggle.com/datasets/davinwijaya/customer-retention) (license: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)). The business framing follows a typical promotion-uplift case question.
 
 | Variable | Description |
 |---|---|
